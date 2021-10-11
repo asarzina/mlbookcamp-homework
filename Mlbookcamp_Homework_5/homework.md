@@ -6,7 +6,11 @@ Version of Pipenv: **2021.5.29**
 
 ## Question 2
 
-Checksum for Scikit-Learn 1.0: 
+Checksum for Scikit-Learn 1.0:
+
+```
+sha256=edc3ae8b6149cf68043e309c942c6df1b24800ee80835c4473379da2323cf861
+```
 
 ## Question 3
 
