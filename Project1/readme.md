@@ -1,4 +1,6 @@
-# 5.10 Homework
+# Project 1
+
+Income classification
 
 ## Build and run commands
 
