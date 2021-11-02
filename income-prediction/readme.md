@@ -6,6 +6,12 @@ Dataset: [https://www.kaggle.com/lodetomasi1995/income-classification](https://w
 
 Goal: prediction task is to determine whether a person makes over 50K a year.
 
+## Description
+
+The project is a classification problem. I want to determine if a person makes over 50K a year.
+
+I try multiple models anche the best one in XGBoost.
+
 ## Repository
 
 [https://github.com/asarzina/mlbookcamp-homework/tree/main/income-prediction](https://github.com/asarzina/mlbookcamp-homework/tree/main/income-prediction)
